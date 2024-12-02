@@ -1,0 +1,17 @@
+data/
+
+docs/
+
+Saved_Models/
+
+__pycache__/
+
+.env
+
+
+app.zip
+
+
+test.ipynb
+
+        
